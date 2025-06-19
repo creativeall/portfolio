@@ -36,7 +36,7 @@ const Home = () => {
             I am fluent in <b>ReactJs</b> and know a bit of <b>NextJs</b> and am working on a few 
             projects in the <b>MERN</b> stack.<br />
             I plan to learn <b> Typescript</b> in the near future. <br /><br />
-            Also, I love <b>coffee</b> <CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
+             
           </p>
         </div>
         <Tilt>
