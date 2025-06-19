@@ -1,0 +1,20 @@
+  
+import Typewriter from  'typewriter-effect';
+
+const Typed = () => {
+  return (
+    <div className="TypeEffect">
+      <Typewriter
+        options={{
+          strings: ['ReactJs Developer', 'Frontend Developer'],
+          autoStart: true,
+          loop: true,
+          delay: 70,
+          deleteSpeed:20,
+        }}
+      />
+    </div>
+  )
+}
+
+export default Typed
